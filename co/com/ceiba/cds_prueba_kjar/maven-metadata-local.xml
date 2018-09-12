@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>co.com.ceiba</groupId>
+  <artifactId>cds_prueba_kjar</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+      <version>0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180912201125</lastUpdated>
+  </versioning>
+</metadata>
