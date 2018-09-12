@@ -4,10 +4,11 @@
   <artifactId>cds_prueba_kjar</artifactId>
   <versioning>
     <versions>
+      <version>0.3-SNAPSHOT</version>
       <version>0.1-SNAPSHOT</version>
       <version>0.2-SNAPSHOT</version>
-	  <version>0.3-SNAPSHOT</version>
+      <version>0.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180912201628</lastUpdated>
+    <lastUpdated>20180912202002</lastUpdated>
   </versioning>
 </metadata>
