@@ -7,7 +7,7 @@
 	<version>0.1-SNAPSHOT</version>
 	<packaging>kjar</packaging>
 
-	<name>drools-kjar</name>
+	<name>cds_prueba_kjar</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
